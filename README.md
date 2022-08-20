@@ -5,4 +5,4 @@
 [![codewars](https://www.codewars.com/users/DanilaShishkin/badges/micro)](https://www.codewars.com/users/DanilaShishkin)
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Danila2182=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?Danila2182KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats
