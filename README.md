@@ -1,5 +1,5 @@
 <h1 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, я <a href="https://daniilshat.ru/" target="_blank">Данил! </a> 
-Python-разработчик</h1> 
+Я Python-разработчик!</h1> 
 <h3 align="left">Яндекс.Практикум обучение</h3>
 <h3 align="left">Языки и инструменты: Python/Django/Django REST Framework/PostgreSQL/Docker/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest</h3>
 
