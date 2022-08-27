@@ -13,15 +13,5 @@
 <a href="https://www.leetcode.com/danila2182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="danila2182" height="30" width="40" /></a>
 </p>
 
-<br>
-
-<br>
-
-
-[![codewars](https://www.codewars.com/users/DanilaShishkin/badges/micro)](https://www.codewars.com/users/DanilaShishkin)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Danila2182&theme=dark)](https://github.com/DanilaShishkin/leetcode-stats)
-
-
 
 
