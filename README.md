@@ -1,5 +1,5 @@
 <h1 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, я <a href="https://daniilshat.ru/" target="_blank">Данил! </a> 
-Python-разработчик</h1> 
+Я Python-разработчик!</h1> 
 <h3 align="left">Яндекс.Практикум обучение</h3>
 <h3 align="left">Языки и инструменты: Python/Django/Django REST Framework/PostgreSQL/Docker/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest</h3>
 
@@ -14,9 +14,14 @@ Python-разработчик</h1>
 </p>
 
 <br>
+
 <br>
 
+
 [![codewars](https://www.codewars.com/users/DanilaShishkin/badges/micro)](https://www.codewars.com/users/DanilaShishkin)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Danila2182&theme=dark)](https://github.com/DanilaShishkin/leetcode-stats)
+
 
 
 
